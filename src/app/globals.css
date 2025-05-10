@@ -45,3 +45,8 @@ body {
   background-color: rgb(255, 89, 0);
   background-image: linear-gradient(to bottom right, rgb(232, 152, 121),rgb(218, 107, 216), rgb(207, 204, 96));
 }
+
+.image{
+  position: absolute;
+  margin-right: 420;
+}
